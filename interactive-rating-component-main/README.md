@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-FJ9CCsJH48)
-- Live Site URL: [Add live site URL here](https://rockbell89.github.io/interactive-rating-component/)
+- Live Site URL: [Add live site URL here](https://rockbell89.github.io/Frontend-Mentor-Challanges/interactive-rating-component-main)
 
 ## My process
 
